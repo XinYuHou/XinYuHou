@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @XinYuHou
 - I'm a sound designer for game in company,and I'm a composer and independent musician too. 
 - 👀 I’m interested in music,and reading.(I love any area of interest.)
-- 🌱 I’m currently learning phycology,swift,painting.
-- 💞️ I’m looking to collaborate on programmer，because I have a great idea to develop a mobile app for ios.
+- 🌱 I’m currently learning wwise,ue,logic
 - 📫 lovesickkk@163.com
 - 🎵you can find my own music in there:https://www.youtube.com/@XinYuHou_u
 
